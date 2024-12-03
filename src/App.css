@@ -1,0 +1,13 @@
+.container{
+  margin: 0 auto;
+  width: 300px;
+}
+
+.title{
+  text-align: center;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: space-between;
+}
